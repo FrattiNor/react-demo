@@ -1,0 +1,37 @@
+@font-face {font-family: "projectIcon";
+  src: url('iconfont.eot?t=1575792654773'); /* IE9 */
+  src: url('iconfont.eot?t=1575792654773#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url('data:application/x-font-woff2;charset=utf-8;base64,d09GMgABAAAAAAN8AAsAAAAAB9gAAAMuAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHEIGVgCDMAqCMIIsATYCJAMYCw4ABCAFhREHaBv+BsgusG3YE9bEzXWEcLJ42wcAB3Hx8LlGvp9kc0BUYl/FJBmEP1UFaESNqNDA41lX7//q0h8grFKCAKOhQAbJ9oF0T6cQT0WamFbkMbC1y9QGCHByn7izAA1w7v/v5+/n684qqEGuPYGpVjVl0gBHA0yQyB+RhF8Y/zK8cGEd5t0Eus3bLWBve68E4QrYFYh7jqVBeCqiKEK+U6glZxbxVIjO9Dj9AZ74fx//FBdO0mRwr5M32kxo/HnPqrzQLjiYly2P54JwHhlbgEJcK/VcEBRmtgjSra0OtguoipDGCrUDH18u0dlV/ZcXkqwQFRT3gqPY1DgvqY3R8KscI/hVgZH4VYmR+VUley+GOmJzxQFglZK26IKZUoUrTY27ZXVIUpiiDkuyoSojsuRWyiOKNH1rrfgLhhVYxa1XqW+Kuv8uS8qp1jCsi0urpRbebrlRk/AZ094scPbNJ8vn17EwDdb88ycmxc9qDBaScrNxh37xwvveX0HOHL/U8S7o95w49ir48sfHF0/k7S2zg1/si7afbZaXFu41vwi+cXB8se5e0PO91yfHrtXdCb6wh05UXg0YCs0So29gBqzO0jAgPU8LfOJbUVnz5rZngyGv/qOH+fc9Y/lIXO3/8J4CfiS+jyWKdoWgU6K19I9MKtCGIsrBWovayxa1LA7V9lFSCd0sTgsEhv0dyzcGYlfoEaUYJR0WUdZjPRTSLmhIu6GSDqJum42c32PEnCBRurDJOYTCuNco6fceZeP+QSH9xzWsoqCS8lC381FxxR7rOtXdwrEmsIn0SeQYjBJriYj0cebChuhKTx7G1qhH42JnlFQw9zt4HBXlF5bkOzDFfLwj/jGrWAiCCGde1D5wDns8DLVszreF8FUXFJCyX8o3mBci7cFhGgEzIbpJiMPAUMS9jxDpEY5xwQxCV92yYZhllIeGBqgfoKRegXF+Dl4MUiRfYTvo0NC2Pdd4ut8YSzFBIBAi5LyQ9lW7MA8bxaBxPfnsHimfagVkGGmryZ9X532kYmEA+ECNFDlKNFGjQ89VG49xRk02TmPkwUREF3HHskUEv3LUF+ZhmulQCwAAAA==') format('woff2'),
+  url('iconfont.woff?t=1575792654773') format('woff'),
+  url('iconfont.ttf?t=1575792654773') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+ */
+  url('iconfont.svg?t=1575792654773#projectIcon') format('svg'); /* iOS 4.1- */
+}
+
+.projectIcon {
+  font-family: "projectIcon" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.project-icon-chevrondown:before {
+  content: "\e736";
+}
+
+.project-icon-chevronleft:before {
+  content: "\e737";
+}
+
+.project-icon-chevronright:before {
+  content: "\e738";
+}
+
+.project-icon-chevronup:before {
+  content: "\e739";
+}
+
+.project-icon-loading:before {
+  content: "\e6a6";
+}
+

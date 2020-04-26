@@ -1,0 +1,44 @@
+{
+  "id": "1551649",
+  "name": "project",
+  "font_family": "projectIcon",
+  "css_prefix_text": "project-icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "702104",
+      "name": "chevron-down",
+      "font_class": "chevrondown",
+      "unicode": "e736",
+      "unicode_decimal": 59190
+    },
+    {
+      "icon_id": "702105",
+      "name": "chevron-left",
+      "font_class": "chevronleft",
+      "unicode": "e737",
+      "unicode_decimal": 59191
+    },
+    {
+      "icon_id": "702107",
+      "name": "chevron-right",
+      "font_class": "chevronright",
+      "unicode": "e738",
+      "unicode_decimal": 59192
+    },
+    {
+      "icon_id": "702109",
+      "name": "chevron-up",
+      "font_class": "chevronup",
+      "unicode": "e739",
+      "unicode_decimal": 59193
+    },
+    {
+      "icon_id": "851467",
+      "name": "loading",
+      "font_class": "loading",
+      "unicode": "e6a6",
+      "unicode_decimal": 59046
+    }
+  ]
+}
